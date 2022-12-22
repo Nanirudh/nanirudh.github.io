@@ -13,13 +13,13 @@ theme                    : jekyll-theme-minimal
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soumya Dutta"
+title                    : "Anirudh Nanduri"
 title_separator          : "-"
-name                     : &name "Soumya Dutta"
-description              : &description "A personal blog of  Soumya Dutta"
+name                     : &name "Anirudh Nanduri"
+description              : &description "A personal blog of  Anirudh Nanduri"
 url                      : "https://soumya-dutta.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "Soumya-dutta.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+gh_repo                  : "nanirudh.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 160
