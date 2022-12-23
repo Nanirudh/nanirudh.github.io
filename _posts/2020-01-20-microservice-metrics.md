@@ -1,13 +1,13 @@
 ---
 title: 'Metrics based Performance evaluation of Microservices'
 date: 2020-01-20
-permalink: /Microservice-Metrics/
+permalink: /microservice-metrics/
 tags:
   - projects
   - systems
 ---
 
-[*B.Tech. Project under Prof. S. Ravichandra*]Developed a microservices based application as mentioned in the paper ”Migrating to Microservices: case study" and evaluated metrics.
+[*B.Tech. Project under Prof. S. Ravichandra*]Developed a microservices based application as mentioned in the paper **Migrating to Microservices: case study** and evaluated metrics.
 
 Performed load testing by increasing the number of instances and number of requests in a second using JMeter.Metrics evaluated are response time, core-design instability.
 

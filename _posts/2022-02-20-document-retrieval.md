@@ -1,7 +1,7 @@
 ---
 title: 'Document Retrieval Engine of English Corpora'
-date: 2022-06-24
-permalink: /Document-Retrieval/
+date: 2022-02-20
+permalink: /document-retrieval/
 tags:
   - projects
   - ML
