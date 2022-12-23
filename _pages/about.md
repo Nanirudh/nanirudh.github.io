@@ -5,7 +5,7 @@ excerpt: "About me"
 ---
 {% include base_path %}
 
-Hi! I'm Anirudh.I'm currently pursuing MTech CSE  from IIT  Kanpur.I would be graduating in June'23. I'm working on my thesis with [Prof.Hamim Zafar](https://hamimzafar.wixsite.com/home) on **Representation Learning of Single cell Multiomics datasets**.
+Hi! I'm Anirudh.I'm currently pursuing MTech CSE  from IIT  Kanpur.I would be graduating in June'23. I'm currently working on my thesis **Representation Learning of Single cell Multiomics datasets** with [Prof.Hamim Zafar](https://hamimzafar.wixsite.com/home).
 
 I worked as a Software engineer at **Salesforce**, Hyderabad for one year.I was part of the Application Security team.My interests lie in Distributed Systems, Operating Systems, Probabilistic ML and Generative Modelling.
 
