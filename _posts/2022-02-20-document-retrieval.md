@@ -12,5 +12,5 @@ corpus using the IR systems.
 
 Evaluated the IR systems on random queries and calculated the **Mean Average Precision(MAP)** metric.
 
-Individual Project.  
-Github repo URL: [Document Retrieval Engine](https://github.com/Nanirudh/Document-Retrieval-System)
+*Individual Project*  
+*Github repo URL*: [Document Retrieval Engine](https://github.com/Nanirudh/Document-Retrieval-System)
