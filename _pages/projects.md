@@ -11,7 +11,6 @@ redirect_from:
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
     {% if post.tags contains "projects" %}
-         {{post.title}} 
          {% include archive-single.html %}           
     {% endif %}
   
