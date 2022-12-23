@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nanirudh.github.io/sitemap.xml
