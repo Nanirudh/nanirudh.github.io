@@ -20,7 +20,7 @@ Work experience
 * June 2020 - July 2021
   * Salesforce, Hyderabad
   * Position: Associate Member of Technical Staff (AMTS)
-  * Worked on static docker container scanning application.Part of Application Security team.
+  * Worked on static docker container scanning application.Member of Application Security team.
   * Spring Boot, AWS, Java, Distributed Systems.
   
 * May 2019 - July 2019 
