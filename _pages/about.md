@@ -5,7 +5,7 @@ excerpt: "About me"
 ---
 {% include base_path %}
 
-Hi! I'm Anirudh.I'm currently pursuing MTech CSE  from IIT  Kanpur.I would be graduating in June'23. I'm currently working on my thesis **Representation Learning of Single cell Multiomics datasets** with [Prof.Hamim Zafar](https://hamimzafar.wixsite.com/home) and exploring  Linux kernel(6.1.4) in the course Linux Kernel Programming(CS614). 
+Hi! I'm Anirudh.I'm currently pursuing MTech CSE  from IIT  Kanpur.I would be graduating in June'23. I'm currently working on my thesis **Representation Learning of Single cell Multiomics datasets** with [Prof.Hamim Zafar](https://hamimzafar.wixsite.com/home) and Linux system programming. 
 
 I worked as a Software engineer at **Salesforce**, Hyderabad for one year.I was part of the Application Security team.My interests lie in Distributed Systems, Operating Systems, Probabilistic ML and Generative Modelling.
 
