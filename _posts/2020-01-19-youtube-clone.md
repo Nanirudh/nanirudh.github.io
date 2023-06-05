@@ -1,6 +1,6 @@
 ---
 title: 'Clone of YouTube Homepage'
-date: 2020-01-20
+date: 2020-01-19
 permalink: /youtube-homepage-clone/
 tags:
   - projects
