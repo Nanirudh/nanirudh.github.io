@@ -6,7 +6,7 @@ excerpt: "About me"
 {% include base_path %}
 
 
-Hi!. I'm Anirudh, I'm currently working at **Nvidia** Bangalore as a system software engineer. I have completed my Masters in Computer Science from IIT Kanpur, and  Bachelors in Computer Science from NIT Warangal.
+Hi! I'm Anirudh, I'm currently working at **Nvidia** Bangalore as a system software engineer. I have completed my Masters in Computer Science from IIT Kanpur, and  Bachelors in Computer Science from NIT Warangal.
 
 My professional path has been marked by diverse experiences, having previously contributed my skills as a Backend Developer at Salesforce and Full stack developer at SAP Labs and VISA. 
 My academic pursuits led me to delve into the fascinating intersection of deep learning and computational genomics, culminating in a Master's thesis on representation learning in single-cell multiomics datasets, conducted under the guidance of Prof. Hamim Zafar at IIT Kanpur.

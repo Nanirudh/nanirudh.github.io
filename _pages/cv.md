@@ -39,5 +39,6 @@ Work experience
   * Developed an application to validate servers after patching.
   
 <!-- For more details have a look at my [Resume (2023)](https://nanirudh.github.io/files/Anirudh_Nanduri_Resume.pdf). -->
+Please contact me for the complete CV.
 
 
