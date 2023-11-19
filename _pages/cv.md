@@ -12,11 +12,21 @@ redirect_from:
 Education
 ======
 * B.Tech. in Computer Science and Engineering, **National Institute of Technology Warangal**, 2020, CPI:8.34
-* M.Tech. in Computer Science and Engineering, **Indian Institute of Technology Kanpur**, May 2023(Expected), CPI:9.0
- * [M.Tech. Thesis] Representation learning of Single cell Multi-omic datasets
+* M.Tech. in Computer Science and Engineering, **Indian Institute of Technology Kanpur**, July 2023, CPI:9.0
+ * [M.Tech. Thesis] Multimodal Hierarchical Deep Generative Model for Single-cell Multiomics Datasets
 
 Work experience
 ======
+* Oct 2023 - Present
+  * Nvidia, Bangalore
+  * Position: System Software Engineer
+  * Working on CUDA GPU drivers
+
+* July 2023 - Oct 2023
+  * SAP Labs, Bangalore
+  * Position: Associate Developer
+  * Worked as a full stack developer in the integration suite team.
+
 * June 2020 - July 2021
   * Salesforce, Hyderabad
   * Position: Associate Member of Technical Staff (AMTS)
