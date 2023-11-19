@@ -20,7 +20,7 @@ Work experience
 * Oct 2023 - Present
   * Nvidia, Bangalore
   * Position: System Software Engineer
-  * Working on CUDA GPU drivers
+  * Working on CUDA GPU drivers.
 
 * July 2023 - Oct 2023
   * SAP Labs, Bangalore
