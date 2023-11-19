@@ -38,6 +38,6 @@ Work experience
   * Position: Software Engineering Intern
   * Developed an application to validate servers after patching.
   
-#For more details have a look at my [Resume (2023)](https://nanirudh.github.io/files/Anirudh_Nanduri_Resume.pdf).
+<!-- For more details have a look at my [Resume (2023)](https://nanirudh.github.io/files/Anirudh_Nanduri_Resume.pdf). -->
 
 
