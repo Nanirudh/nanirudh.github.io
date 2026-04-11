@@ -6,7 +6,7 @@ excerpt: "About me"
 {% include base_path %}
 
 
-Hi! I'm Anirudh, I'm currently working at **Nvidia** Bangalore as a senior system software engineer. I'm a part of CUDA team adding features to the cuda driver on various GPU platforms. I have completed my Masters in Computer Science from IIT Kanpur, and  Bachelors in Computer Science from NIT Warangal.
+Hi! I'm Anirudh, I'm currently working at **Nvidia**, Bangalore as a senior system software engineer. I'm a part of CUDA team adding features to the cuda driver on various GPU platforms. I have completed my Masters in Computer Science from IIT Kanpur, and  Bachelors in Computer Science from NIT Warangal.
 
 I have previously worked as a Backend Developer at Salesforce and Full stack developer at SAP Labs and VISA. 
 I had the opportunity to explore the exciting field of deep learning and computational genomics. This led to my Master’s thesis, “Representation Learning in Single-cell Multiomics Datasets,” which I completed under the guidance of Prof. Hamim Zafar at IIT Kanpur.
