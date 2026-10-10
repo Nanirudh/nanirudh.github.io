@@ -1,5 +1,5 @@
 ---
-title: 'Modern C++ Smart Pointer Implentataion'
+title: 'Modern C++ Smart Pointer Implementation'
 date: 2026-10-10
 permalink: /cpp-smart-ptr-imple/
 tags:
