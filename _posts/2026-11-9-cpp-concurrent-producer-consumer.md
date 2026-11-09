@@ -1,6 +1,6 @@
 ---
 title: 'Modern C++ Concurrent Producer-Consumer Implementation'
-date: 2026-10-10
+date: 2026-11-9
 permalink: /cpp-producer-consumer-implementation/
 tags:
   - projects
