@@ -1,10 +1,10 @@
 ---
 title: 'Modern C++ Smart Pointer Implementation'
 date: 2026-10-10
-permalink: /cpp-smart-ptr-imple/
+permalink: /cpp-smart-ptr-implementation/
 tags:
   - projects
-  - ML
+  - Modern CPP
 ---
 
 Implemented unique\_ptr, shared\_ptr, weak\_ptr in Modern C++.
